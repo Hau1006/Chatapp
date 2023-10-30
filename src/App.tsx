@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1> chimcucxanh </h1>
+      <h1 className="text-3xl"> chimcucxanh </h1>
     </>
   );
 }
